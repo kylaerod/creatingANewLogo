@@ -9,7 +9,7 @@ This project is to allow the user to create their own very simple logo by using 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Credits](#contributing)
+- [Credits](#credits)
 
 ## Installation
 This project was completed from scratch. I referenced course material from the University of Minnesota's Coding bootcamp to assist me as well as online resources to create my skeleton. Once that is completed, it is just trouble shooting from there (mainly using nodemon).
