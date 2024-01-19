@@ -9,9 +9,7 @@ This project is to allow the user to create their own very simple logo by using 
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Credits](#contributing)
 
 ## Installation
 This project was completed from scratch. I referenced course material from the University of Minnesota's Coding bootcamp to assist me as well as online resources to create my skeleton. Once that is completed, it is just trouble shooting from there (mainly using nodemon).
@@ -37,12 +35,6 @@ https://learn.microsoft.com/en-us/cpp/c-language/switch-statement-c?view=msvc-17
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 https://www.codingninjas.com/studio/library/methods-to-print-new-line-in-java
-
-## Tests
-Test 1 2
-
-## Questions 
-Do you know how to bake?
 
 Please also check out my GitHub Profile if you would like:
 
