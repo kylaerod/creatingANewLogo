@@ -19,6 +19,7 @@ This application creates a very simple logo design for the user based off of the
 
 ![Logo Generator App Walkthrough](logoWT.gif)
 
+
 ## Credits
 Code that was referenced by gitHub unsername potential-enigma, whos gitHub is linked below along with the starter code I used for this project.
 
